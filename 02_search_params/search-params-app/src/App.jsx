@@ -73,7 +73,7 @@ function App() {
               type="checkbox"
               name="vegetarian"
               checked={isVegetarian}
-              onChange={(e) => setIsVegetarian(!isVegetarian)}
+              onChange={() => setIsVegetarian(!isVegetarian)}
             />
             <label htmlFor="vegetarian" style={{ marginLeft: "1rem" }}>
               Vegetarian?

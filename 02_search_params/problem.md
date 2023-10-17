@@ -6,7 +6,7 @@ The client has come up with some new requirements for you to implement in the fo
 
 ## User Requirements
 
-1. As a user, I want to be able to bookmark the search page at any time with my search parameters and return to this page later with my settings restored, so that I can save time finding the best taco
+1. As a user, I want to be able to bookmark the search page at any time with my search parameters and return to this page later with my settings restored, so that I can save time finding the best tacos
 2. As a user, I want to be able to share the above bookmark with friends, so that they can load the site with my search settings and see my favourite taco results
 3. As a user, I want the URL to include the `/search` path to that I have a clearer understanding of where I am on the website.
 
